@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ellakaye/ellakaye.r-universe.dev
 	branch = HEAD
+[submodule "BradleyTerryScalable"]
+	path = BradleyTerryScalable
+	url = https://github.com/EllaKaye/BradleyTerryScalable
+[submodule "aperol"]
+	path = aperol
+	url = https://github.com/EllaKaye/aperol
