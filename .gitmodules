@@ -15,3 +15,6 @@
 	path = praise
 	url = https://github.com/rladies/praise
 	registered = false
+[submodule "pregnancy"]
+	path = pregnancy
+	url = https://github.com/EllaKaye/pregnancy
