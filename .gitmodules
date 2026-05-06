@@ -5,6 +5,9 @@
 [submodule "BradleyTerryScalable"]
 	path = BradleyTerryScalable
 	url = https://github.com/EllaKaye/BradleyTerryScalable
+[submodule "aochelpers"]
+	path = aochelpers
+	url = https://github.com/EllaKaye/aochelpers
 [submodule "aperol"]
 	path = aperol
 	url = https://github.com/EllaKaye/aperol
