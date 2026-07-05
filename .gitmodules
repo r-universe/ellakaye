@@ -14,6 +14,9 @@
 [submodule "basepenguins"]
 	path = basepenguins
 	url = https://github.com/EllaKaye/basepenguins
+[submodule "jugglr"]
+	path = jugglr
+	url = https://github.com/EllaKaye/jugglr
 [submodule "pregnancy"]
 	path = pregnancy
 	url = https://github.com/EllaKaye/pregnancy
